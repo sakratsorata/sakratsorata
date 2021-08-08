@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sakratsorata
 - 👀 I’m interested in robotics, humandroid
 - 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on who native the robotics
 - 📫 How to reach me ...
 
 <!---
